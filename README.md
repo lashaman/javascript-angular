@@ -1,3 +1,4 @@
-# web-platform-gu5cxu
+# javascript&angular AODI
+## სასწავლო მასალების რეპოზიტორი
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-gu5cxu)
+> აქ დაიდება ლექციაზე გაკეთებული მაგალითები, სტუდენტებისთვის
